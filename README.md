@@ -1,0 +1,1 @@
+# SQL_beginner_projects_data_analysis
